@@ -12,3 +12,5 @@ Gradio – For building the web interface
 ReportLab – For PDF generation
 
 Google Colab – Development and testing environment
+demo video link
+https://drive.google.com/file/d/1Bpadxqd5IdYxXj91oYmE8lp2iO3pr_vL/view?usp=sharing
